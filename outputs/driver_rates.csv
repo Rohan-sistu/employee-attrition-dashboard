@@ -1,0 +1,68 @@
+factor,group,employees,left,attrition_rate_pct
+OverTime,No,1054,110,10.4
+OverTime,Yes,416,127,30.5
+JobLevel,1,543,143,26.3
+JobLevel,2,534,52,9.7
+JobLevel,3,218,32,14.7
+JobLevel,4,106,5,4.7
+JobLevel,5,69,5,7.2
+TenureBand,0-1 yrs,215,75,34.9
+TenureBand,2-3 yrs,255,47,18.4
+TenureBand,4-5 yrs,306,40,13.1
+TenureBand,6-10 yrs,448,55,12.3
+TenureBand,11+ yrs,246,20,8.1
+AgeBand,18-25,123,44,35.8
+AgeBand,26-30,263,56,21.3
+AgeBand,31-35,343,60,17.5
+AgeBand,36-45,468,43,9.2
+AgeBand,46-60,273,34,12.5
+IncomeQuartile,Q1 (lowest),369,108,29.3
+IncomeQuartile,Q2,366,52,14.2
+IncomeQuartile,Q3,367,39,10.6
+IncomeQuartile,Q4 (highest),368,38,10.3
+MaritalStatus,Divorced,327,33,10.1
+MaritalStatus,Married,673,84,12.5
+MaritalStatus,Single,470,120,25.5
+StockOptionLevel,0,631,154,24.4
+StockOptionLevel,1,596,56,9.4
+StockOptionLevel,2,158,12,7.6
+StockOptionLevel,3,85,15,17.6
+BusinessTravel,Non-Travel,150,12,8.0
+BusinessTravel,Travel_Frequently,277,69,24.9
+BusinessTravel,Travel_Rarely,1043,156,15.0
+JobRole,Healthcare Representative,131,9,6.9
+JobRole,Human Resources,52,12,23.1
+JobRole,Laboratory Technician,259,62,23.9
+JobRole,Manager,102,5,4.9
+JobRole,Manufacturing Director,145,10,6.9
+JobRole,Research Director,80,2,2.5
+JobRole,Research Scientist,292,47,16.1
+JobRole,Sales Executive,326,57,17.5
+JobRole,Sales Representative,83,33,39.8
+JobSatisfaction,1,289,66,22.8
+JobSatisfaction,2,280,46,16.4
+JobSatisfaction,3,442,73,16.5
+JobSatisfaction,4,459,52,11.3
+EnvironmentSatisfaction,1,284,72,25.4
+EnvironmentSatisfaction,2,287,43,15.0
+EnvironmentSatisfaction,3,453,62,13.7
+EnvironmentSatisfaction,4,446,60,13.5
+WorkLifeBalance,1,80,25,31.2
+WorkLifeBalance,2,344,58,16.9
+WorkLifeBalance,3,893,127,14.2
+WorkLifeBalance,4,153,27,17.6
+Department,Human Resources,63,12,19.0
+Department,Research & Development,961,133,13.8
+Department,Sales,446,92,20.6
+CommuteBand,0-5 km,632,87,13.8
+CommuteBand,6-10 km,394,57,14.5
+CommuteBand,11+ km,444,93,20.9
+Gender,Female,588,87,14.8
+Gender,Male,882,150,17.0
+Education,1,170,31,18.2
+Education,2,282,44,15.6
+Education,3,572,99,17.3
+Education,4,398,58,14.6
+Education,5,48,5,10.4
+PerformanceRating,3,1244,200,16.1
+PerformanceRating,4,226,37,16.4
