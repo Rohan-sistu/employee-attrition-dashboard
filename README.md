@@ -5,6 +5,8 @@ An analysis of the IBM HR Analytics dataset (1,470 employees, 16.1% attrition)
 with statistical tests, an honestly evaluated risk model, and an interactive
 Streamlit dashboard.
 
+**Live demo:** https://rohan-attrition-analytics.streamlit.app/
+
 > **About the data:** the IBM HR Analytics dataset is fictional, created by IBM
 > data scientists for teaching. It is a single snapshot, so it shows which
 > groups have higher attrition, not what caused people to leave.
